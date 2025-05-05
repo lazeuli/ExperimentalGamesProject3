@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638819170303875314
-    m_Hash: 3833965715
+      ticks: 638820637281478695
+    m_Hash: 248041456
   m_LockFileStatus:
     m_FilePath: C:/GitJam03/ExperimentalGamesProject3/ExperimentalGamesProject3/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638819170303917060
-    m_Hash: 446997799
+      ticks: 638820637281484110
+    m_Hash: 1776447108
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
